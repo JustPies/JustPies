@@ -24,7 +24,7 @@ I work with SMEs to create and enhance content for customer readability, improvi
   - Improved Acrolinx score from 82% correctness to 96% correctness.
 - https://learn.microsoft.com/en-us/sql/reporting-services/application-integration/integrating-reporting-services-using-soap-windows-application
   - Improved Acrolinx score from 88% correctness to 96% correctness.
--https://learn.microsoft.com/en-us/sql/reporting-services/application-integration/integrating-reporting-services-using-reportviewer-controls
+- https://learn.microsoft.com/en-us/sql/reporting-services/application-integration/integrating-reporting-services-using-reportviewer-controls
   - Improved Acrolinx score from 75% correctness to 90% correctness.
  
 NOTE: While Acrolinx is an excellent tool for content health, the human element of writing often prohibits an article from earning 100% correctness. For example, if a file name is "samplefilename.md" Acrolinx might count against the article for not having spaces between the words "sample", "file", and "name" even though "samplefilename.md" is used correctly.
