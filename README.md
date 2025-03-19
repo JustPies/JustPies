@@ -11,10 +11,10 @@ I'm a contributor on hundreds of Microsoft Learn articles. The "contributor" cat
 However, because I've worked on so many articles, in so many document sets and repositories, the articles here aren't all-inclusive. I've also worked on documentation for products including: Windows Server, Power BI, Microsoft Entra Connect, the Azure Portal, PowerShell, Power Apps, Visual Studio, and more. If you would like specific types of documentation or documentation on specific products that aren't included here, I'm happy to provide more upon request.
 
 - [Optimization](#optimization)
-- [Ensuring Security](#security)
-- [Recreating Freshness](#freshness)
-- [Establish Validation](#validation)
-- [Image clarity](#images)
+- [Security](#security)
+- [Freshness](#freshness)
+- [Validation](#validation)
+- [Image](#images)
 
 ## Optimization
 
