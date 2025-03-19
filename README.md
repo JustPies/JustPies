@@ -14,7 +14,7 @@ However, because I've worked on so many articles, in so many document sets and r
 - [Security](#security)
 - [Freshness](#freshness)
 - [Validation](#validation)
-- [Image](#images)
+- [Images](#images)
 
 ## Optimization
 
@@ -38,6 +38,7 @@ Clarity, specificity, and attention to detail are integral for secure documentat
 - https://learn.microsoft.com/en-us/windows-server/identity/ad-fs/operations/configure-ad-fs-extranet-smart-lockout-protection
 
 ## Freshness
+
 Effective writing tends to last, but eventually, technical writing inevitably goes out of date. While freshness tends to be primarily associated with SEO because of evolving relevancy and timeliness, the freshness passes I've performed have also included adjusting content for product and version updates, linguistic and/or cultural shifts, and brand-wide style guide changes. The following are examples of articles to which I applied at least one full-freshness pass.
 
 - https://learn.microsoft.com/en-us/sql/reporting-services/report-server/report-server-executionlog-and-the-executionlog3-view
