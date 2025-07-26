@@ -1,14 +1,14 @@
-# Justin Piesco: Technical Writer Portfolio 
+# Justin Piesco: Portfolio 
 
 Hello!
 
-My name is Justin Piesco, and I'm a technical writer and content manager for Microsoft under contract with Aquent.
+My name is Justin Piesco, and I'm a Content Manager and Technical Writer for Microsoft under contract with Aquent.
 
 ## A Quick Overview
 
 I'm a contributor on hundreds of Microsoft Learn articles. The "contributor" categorization applies to any writer that has published changes on a given article. Because articles can last for years or even decades, the amount of people involved can range from one to dozens of contributors. I've listed the articles in this portfolio under general categories where I was involved in creating, revising, and/or optimizing.
 
-However, because I've worked on so many articles, in so many document sets and repositories, the articles here aren't all-inclusive. I've also worked on documentation for products including: Windows Server, Power BI, Microsoft Entra Connect, the Azure Portal, PowerShell, Power Apps, Visual Studio, and more. If you would like specific types of documentation or documentation on specific products that aren't included here, I'm happy to provide more upon request.
+However, because I've worked on so many articles, in so many document sets and repositories, the articles here aren't all-inclusive. I've worked on documentation for products including: Windows Server, Power BI, Microsoft Entra Connect, the Azure Portal, PowerShell, Power Apps, Visual Studio, and more. If you'd like specific types of documentation or documentation on specific products that aren't included here, I'm happy to provide more upon request.
 
 - [Optimization](#optimization)
 - [Security](#security)
