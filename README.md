@@ -2,7 +2,7 @@
 
 Hello!
 
-My name is Justin Piesco, and I'm a Content Manager and Technical Writer for Microsoft under contract with Aquent.
+My name is Justin Piesco, and this is a summarized list of my work as a Content Manager and Technical Writer for Microsoft.
 
 ## A Quick Overview
 
