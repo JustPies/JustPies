@@ -10,7 +10,7 @@ I'm a contributor on hundreds of Microsoft Learn articles. The "contributor" cat
 
 However, because I've worked articles in many document sets and repositories, the following articles aren't all-inclusive. I've worked on content and documentation for products including: Windows Server, Power BI, Microsoft Entra Connect, the Azure Portal, PowerShell, Power Apps, Visual Studio, and more. If you'd like specific types of documentation or documentation on specific products that aren't included here, I'm happy to provide more if there is a specific area of interest that could use elaboration.
 
-- [Instructional Design](#instructional_design)
+- [Instructional Design](#instructional-design)
 - [Optimization](#optimization)
 - [Security](#security)
 - [Freshness](#freshness)
