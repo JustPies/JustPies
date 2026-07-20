@@ -17,7 +17,7 @@ However, because I've worked articles in many document sets and repositories, th
 - [Validation](#validation)
 - [Images](#images)
 
-## Instructinal Design
+## Instructional Design
 
 I handle the full lifecycle of Microsoft Learn Training content within specific Microsoft repositories, most recently focusing on large-scale revisions and retirements. I've created and refined dozens of learning paths and modules, and I've retired and archived hundreds more. Retired content is generally no longer publically accesible, though it does still exist on GitHub for those with Microsoft access. The following are Learning Paths where I've worked alongside SMEs to create and/or update content:
 
