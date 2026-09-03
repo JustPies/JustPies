@@ -19,7 +19,7 @@ However, because I've worked articles in many document sets and repositories, th
 
 ## Instructional Design
 
-I handle the full lifecycle of Microsoft Learn Training content within specific Microsoft repositories, most recently focusing on large-scale revisions and retirements. I've created and refined dozens of learning paths and modules, and I've retired and archived hundreds more. Retired content is generally no longer publically accesible, though it does still exist on GitHub for those with Microsoft access. The following are Learning Paths where I've worked alongside SMEs to create and/or update content:
+I handle the full lifecycle of Microsoft Learn Training content within specific Microsoft repositories, most recently focusing on large-scale revisions and retirements. I've created and refined dozens of learning paths and modules, and I've retired and archived hundreds more. Retired content is generally no longer publicly accessible, though it does still exist on GitHub for those with Microsoft access. The following are Learning Paths where I've worked alongside SMEs to create and/or update content:
 
 - [Introduction to Cloud Infrastructure: Describe cloud concepts](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/)
 - [Get started building with Power BI](https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/)
@@ -64,7 +64,7 @@ Validating content is to the effort to eliminate potential accessibility, securi
 
 ## Images
 
-Verifying procedure and providing clear, precise images is integral for customer readability. The following are articles where I performed procedure verification and created current, crisp screenshots to enhance article approachability:
+Verifying procedure and providing clear, precise images is integral for customer readability. The following are articles where I performed procedure verification and created current, crisp screenshots to enhance article clarity:
 
 - [Quickstart: Add an enterprise application](https://learn.microsoft.com/en-us/entra/identity/enterprise-apps/add-application-portal)
 - [Quickstart: Create and assign a user account](https://learn.microsoft.com/en-us/entra/identity/enterprise-apps/add-application-portal-assign-users)
