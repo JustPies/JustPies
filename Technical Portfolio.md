@@ -4,6 +4,8 @@ Hello!
 
 My name is Justin Piesco, and this is a summary of my work as a Content Manager and Technical Writer for Microsoft.
 
+To see my other writing, please got to my [non-technical portfolio](https://github.com/JustPies/JustPies/blob/main/Writing%20Portfolio.md)
+
 ## A Quick Overview
 
 I'm a contributor on hundreds of Microsoft Learn articles. The "contributor" categorization applies to any writer that has published changes on a given article. Because articles can last for years or even decades, the amount of people involved can range from one to dozens of contributors. I've listed the articles in this portfolio under general categories where I was involved in creating, revising, and/or optimizing.
