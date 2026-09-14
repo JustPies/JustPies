@@ -4,7 +4,7 @@ Hello!
 
 My name is Justin Piesco, and this is a summary of my work as a Content Manager and Technical Writer for Microsoft.
 
-To see my other writing, please got to my [non-technical portfolio](https://github.com/JustPies/JustPies/blob/main/Writing%20Portfolio.md)
+To see my other writing, please got to my [non-technical portfolio](https://github.com/JustPies/JustPies/blob/main/Writing%20Portfolio.md).
 
 ## A Quick Overview
 
