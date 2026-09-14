@@ -5,7 +5,7 @@ After getting comfortable with GitHub processes while working as a technical wri
 
 To see my MS work, you can view my [Technical Writing Portfolio](https://github.com/JustPies/JustPies/edit/main/Technical_portfolio.md).
 
-To see my non-technical work, please check out my [Writing portfolio](https://github.com/JustPies/JustPies/edit/main/Writing_portfolio.md)
+To see my non-technical work, please check out my [Writing portfolio](https://github.com/JustPies/JustPies/edit/main/Writing_portfolio.md).
 
 <!--
 **JustPies/JustPies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
