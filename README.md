@@ -1,7 +1,7 @@
 ## Justin Piesco's Portfolios
 
 I've had a long and exciting writing career, and I've needed to get all of my content onto a single space.
-After getting comfortable with GitHub processes while working as a technical writer and content manager for Microsoft (MS), I realized the best place to start compiling my work would be here.
+After getting comfortable with GitHub processes while working as a technical writer and content manager for Microsoft (MS), I realized the best place to start compiling my work is here.
 
 To see my MS work, you can view my [Technical Writing Portfolio](https://github.com/JustPies/JustPies/edit/main/Technical_portfolio.md).
 
