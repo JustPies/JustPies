@@ -3,9 +3,9 @@
 I've had a long and exciting writing career, and I've needed to get all of my content onto a single space.
 After getting comfortable with GitHub processes while working as a technical writer and content manager for Microsoft (MS), I realized the best place to start compiling my work is here.
 
-To see my MS work, you can view my [Technical Writing Portfolio](https://github.com/JustPies/JustPies/edit/main/Technical_portfolio.md).
+To see my MS work, you can view my [Technical Writing Portfolio](https://github.com/JustPies/JustPies/blob/main/Technical%20Portfolio.md).
 
-To see my non-technical work, please check out my [Writing portfolio](https://github.com/JustPies/JustPies/edit/main/Writing_portfolio.md).
+To see my non-technical work, please check out my [Writing portfolio](https://github.com/JustPies/JustPies/blob/main/Writing%20Portfolio.md).
 
 <!--
 **JustPies/JustPies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
