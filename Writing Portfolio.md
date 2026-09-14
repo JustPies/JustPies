@@ -4,7 +4,7 @@ Hello!
 
 My name is Justin Piesco, and this is a summary portfolio of my non-technical writing.
 
-To view my work from Microsoft, you can see my [technical writing portfolio](https://github.com/JustPies/JustPies/edit/main/Technical_portfolio.md).
+To view my work from Microsoft, you can see my [technical writing portfolio](https://github.com/JustPies/JustPies/blob/main/Technical%20Portfolio.md).
 
 ## A Quick Overview
 
