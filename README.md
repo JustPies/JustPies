@@ -1,23 +1,18 @@
 ## Justin Piesco's Portfolios
 
-I've had a long and exciting writing career, and I've needed to get all of my content onto a single space.
-After getting comfortable with GitHub processes while working as a technical writer and content manager for Microsoft (MS), I realized the best place to start compiling my work is here.
-
-To see my MS work, you can view my [Technical Writing Portfolio](https://github.com/JustPies/JustPies/blob/main/Technical%20Portfolio.md).
+To see my Microsoft work, you can view my [Technical Writing Portfolio](https://github.com/JustPies/JustPies/blob/main/Technical%20Portfolio.md).
 
 To see my non-technical work, please check out my [Writing portfolio](https://github.com/JustPies/JustPies/blob/main/Writing%20Portfolio.md).
 
-<!--
-**JustPies/JustPies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Overview
 
-Here are some ideas to get you started:
+Hi there--I'm Justin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've had an odd writing career.
+
+I won a peace studies award for a rhetorical analysis essay I wrote in undergrad, and somehow my first job outside of academia ended up being a technical writer for Microsoft.
+
+To folks uninterested in writing, writing is writing.
+To those of us making a career with words, there is a clear line between literary writing, copy writing, content writing, technical writing, and the many other writing fields out there.
+
+So, this README page, and the accompanying portfolios, are me wrangling my experiences as a writer, editor, writing consultant, writing tutor, writing instructor, and technical writer into a cohesive whole.
