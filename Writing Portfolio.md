@@ -28,7 +28,7 @@ This is the place that shows my writing steals looks.
 
 And so.
 
-The following sections give you an in-the-weeds overview of what I've done and the kind of fire that my experience lets me create.
+The following sections give you an in-the-weeds look of what I've done and the kind of fire that my experience lets me create.
 
 ## Writing Roles
 
