@@ -1,6 +1,6 @@
 # Justin Piesco: Writing Portfolio [In progress]
 
-_To view my work from Microsoft, you can see my [technical writing portfolio](https://github.com/JustPies/JustPies/blob/main/Technical%20Portfolio.md)._
+_To view my work from Microsoft, you can see my [technical writing portfolio](https://github.com/JustPies/JustPies/blob/main/Technical%20Portfolio/Technical%20Portfolio.md)._
 
 ## Overview
 
