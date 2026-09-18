@@ -58,6 +58,7 @@ I wrote a novel as the final project of earning my MFA. It's a post-apocalyptic 
 Here are two pieces with some history:
 
 - [The Static-y Flip of Dave Carmine]()
+- [Comedians Not Comedians]()
 
 - **Jacob's Mirror** on [Coastlines](https://www.fau.edu/artsandletters/coastlines/fiction/).
 
