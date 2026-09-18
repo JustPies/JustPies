@@ -8,7 +8,7 @@ It's really easy to put together an impressive resume that suggests I can write 
 
 I can point to my experience teaching and consulting literally thousands of adults on writing, and I can name drop Microsoft.
 
-### But I have a big problem.
+### But I have a problem.
 
 A ton of my writing has been in service to others: hundreds of personalized full-paged, single-spaced feedback documents to students' business proposals, marginal notes for rough drafts of novels, dissertations, masters theses, and a ton more.
 
@@ -33,11 +33,10 @@ The following sections give you an in-the-weeds look of what I've done and the k
 ## Writing Roles
 
 - [Content Writing](#content-writing)
-- [Writer (Fiction)](<#Writer-(Fiction)>)
 - [Consultant](#consultant)
 - [Tutor](#tutor)
 - [Instructor](#instructor)
-- [Literary Editor](#literary-editor)
+- [Fiction](#Fiction)
 - [Editor](#editor)
 - [Podcasts](#podcasts)
 
@@ -51,15 +50,6 @@ How do I plan on showing this content now that I'm start from scratch?
 I'm posting it on LinkedIn. Here's a sample:
 
 - [Network Improves the LinkedIn experience](https://www.linkedin.com/feed/update/urn:li:activity:7505253290029383680/)
-
-### Writer Fiction
-
-I wrote a novel as the final project of earning my MFA. It's a post-apocalyptic with aliens. It's still a work in progress.
-Here are two pieces with some history:
-
-- [The Static-y Flip of Dave Carmine]()
-
-- **Jacob's Mirror** on [Coastlines](https://www.fau.edu/artsandletters/coastlines/fiction/).
 
 ### Consultant
 
@@ -76,13 +66,21 @@ Most of grammar rules can be taught via Google or YouTube, so I don't make a hug
 
 ### Instructor
 
-### Literary Editor
+### Fiction
 
-- [Swamp Ape Review](https://www.swampapereview.com/)
+I wrote a novel as the final project of earning my MFA. It's a post-apocalyptic with aliens. It's still a work in progress.
+Here are two pieces with some history:
+
+- [The Static-y Flip of Dave Carmine](samples/The%20Static-y%20Flip%20of%20Dave%20Carmine.docx)
+- [Comedians Not Comedians](samples/Comedians%20Not%20Comedians.docx)
+
+- **Jacob's Mirror** on [Coastlines](https://www.fau.edu/artsandletters/coastlines/fiction/).
 
 ### Editor
 
 I'm currently the freelance Editor for the up-and-coming publisher, [Countdown Publishing](https://www.countdownpublishing.com).
+
+(2018-2020) Fiction and Translation Editor at [Swamp Ape Review](https://www.swampapereview.com/)
 
 ### Podcasts
 
