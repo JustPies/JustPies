@@ -54,11 +54,25 @@ I'm posting it on LinkedIn. Here's a sample:
 
 ### Writer Fiction
 
+I wrote a novel as the final project of earning my MFA. It's a post-apocalyptic with aliens. It's still a work in progress.
+Here are two pieces with some history:
+
+- [The Static-y Flip of Dave Carmine]()
+
 - **Jacob's Mirror** on [Coastlines](https://www.fau.edu/artsandletters/coastlines/fiction/).
 
 ### Consultant
 
 ### Tutor
+
+I worked for three years as a writing tutor at Palm Beach State College. Unlike the University Writing Consultant position, this job **did** require intensive grammar work. Most of the students I worked with spoke English as a second language.
+
+Need multiple examples off-the-top of a person's head of how a semi-colon works? I got you.
+Someone throw around the phrase "Copula deletion" and you not know what it means? I can explain in real time.
+
+Most of grammar rules can be taught via Google or YouTube, so I don't make a huge deal out of this work.
+
+"I can explain the plu perfect tense," isn't something I say much at parties. Usually.
 
 ### Instructor
 
@@ -68,8 +82,16 @@ I'm posting it on LinkedIn. Here's a sample:
 
 ### Editor
 
-- I'm currently the freelance Editor for the up-and-coming publisher, [Countdown Publishing](https://www.countdownpublishing.com).
+I'm currently the freelance Editor for the up-and-coming publisher, [Countdown Publishing](https://www.countdownpublishing.com).
 
 ### Podcasts
+
+I co-hosted the ["Wine Piece" podcast](https://www.youtube.com/@WinePiece).
+
+My co-host Mitch had a part-time wine job and wanted to do a podcast. I wanted him to watch "One Piece."
+
+The podcast was our compromise.
+
+I've also been an expert guest on the [Nerding with Friends podcast](https://www.youtube.com/@nerdingwithfriends7888).
 
 ##
