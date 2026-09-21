@@ -6,7 +6,7 @@ To see my non-technical work, please check out my [Writing portfolio](https://gi
 
 ### Overview
 
-Hi there--I'm Justin
+Hi there--I'm Justin.
 
 I've had an odd professional writing career: Academic, Technical, Fictional, Social, Editorial, etc.
 
