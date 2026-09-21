@@ -42,25 +42,38 @@ The following sections give you an in-the-weeds look of what I've done and the k
 
 ### Content Writing
 
-This is the role I want. I know how to blend research and voice and create posts that draw clicks.
+I know how to blend research, voice, and create posts that lead to results, but I bounced around a lot to gain this knowledge
 
-As an editor (see [editor](#editor)) for FAU's literary journal's, I regularly wrote for posts on social media, but they've all but disappeared since I moved to tech.
+When I was an undergrad, I was hired to ghostwrite for a CEO, and, I did this for about 6 months. I interviewed him on current stock market events and wrote daily articles on his website. The website was bought out in 2017, which was the CEO's main goal.
 
-How do I plan on showing this content now that I'm start from scratch?
-I'm posting it on LinkedIn. Here's a sample:
+As an editor in 2019-2020 (see [editor](#editor)) for FAU's [literary journal's](https://www.instagram.com/swampapereview/), I got a step up in legitimacy and was a social media contributor. I mixed in a small amount of graphic design, but you can see that the IG has continued on well, long past my graduation.
+
+Since then, my voice has improved, so now I'm posting on LinkedIn, building my personal brand. Here's a sample:
 
 - [Network Improves the LinkedIn experience](https://www.linkedin.com/feed/update/urn:li:activity:7505253290029383680/)
 
 ### Consultant
 
+I tell everyone who wants to gain expertise, they should go work as a tutor. Consulting is a level above that.
+
+A tutor teaches students the basics, like grammar. A Writing Consultant teaches structure. Argument. Tone. Research.
+These are the types of students I consulted:
+
+- PhD candidates
+- Masters Students
+- MBAs
+- Law students
+
+I've worked on business captones, marketing memos, psychology research, music theory, and more critical thinking essays than I can remember.
+
 ### Tutor
 
 I worked for three years as a writing tutor at Palm Beach State College. Unlike the University Writing Consultant position, this job **did** require intensive grammar work. Most of the students I worked with spoke English as a second language.
 
-Need multiple examples off-the-top of a person's head of how a semi-colon works? I got you.
-Someone throw around the phrase "Copula deletion" and you not know what it means? I can explain in real time.
+Do you need multiple examples off-the-top of the head of how a semi-colon works? I got you.
+Did someone throw around the phrase "copula deletion" and you want to know what it means? I can explain in real time.
 
-Most of grammar rules can be taught via Google or YouTube, so I don't make a huge deal out of this work.
+Most grammar rules can be taught via Google or YouTube, so I don't make a huge deal out of this work.
 
 "I can explain the plu perfect tense," isn't something I say much at parties. Usually.
 
