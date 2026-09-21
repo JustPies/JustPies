@@ -50,7 +50,7 @@ As an editor in 2019-2020 (see [editor](#editor)) for FAU's [literary journal's]
 
 Since then, my voice has improved, so now I'm posting on LinkedIn, building my personal brand. Here's a sample:
 
-- [Network Improves the LinkedIn experience](https://www.linkedin.com/feed/update/urn:li:activity:7505253290029383680/)
+- [Networking Improves the LinkedIn experience](https://www.linkedin.com/feed/update/urn:li:activity:7505253290029383680/)
 
 ### Consultant
 
