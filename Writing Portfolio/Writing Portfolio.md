@@ -4,31 +4,31 @@ _To view my work from Microsoft, you can see my [technical writing portfolio](ht
 
 ## Overview
 
-It's really easy to put together an impressive resume that suggests I can write circles around others.
+It's easy enough to create a resume that "suggests" I can write circles around others.
 
-I can point to my experience teaching and consulting literally thousands of adults on writing, and I can name drop Microsoft.
+I can point to my experience teaching, my consulting of literally thousands of adults on writing. I can even name drop Microsoft.
 
 ### But I have a problem.
 
-A ton of my writing has been in service to others: hundreds of personalized full-paged, single-spaced feedback documents to students' business proposals, marginal notes for rough drafts of novels, dissertations, masters theses, and a ton more.
+A ton of my writing has been in service to others: hundreds of personalized full-paged, single-spaced feedback documents to students' business proposals, marginal notes for rough drafts of novels, dissertations, masters theses, primary and secondary med school applications, and a lot more.
 
-I my comments saved away alongside dialog lesson plans, translation best-practice guides, grammar documents--usually with copious amounts of pop-culture references to make them palletable--but how well do those translate to showing I can write good copy? Good social content?
+I have my comments saved alongside dialog lesson plans, translation best-practice guides, grammar documents--usually with copious amounts of pop-culture references to make them palletable--but how well do those translate to showing I can write good copy? Good social content?
 
-I have public-facing pieces, but not nearly as many as I'd like.
+I have public-facing pieces, sure, but not nearly as many as I'd like.
 
-### My solution
+### So what is my solution?
 
 I'm writing new content here.
 
 I'll post links to the older stuff too, but you deserve to see the tone, structure, and humanity that I can inject into content that you can't find with AI.
 
-After finishing my time in tech, this is the place where I show that I know more than just how to deep-dive into research, write consistently customer-friendly content, and punctuate a sentence.
+After finishing 4 years at Microsoft and constantly using GitHub, this is the place where I show that I know more than just how to deep-dive into research, write consistently customer-friendly content, and punctuate a sentence.
 
 This is the place that shows my writing steals looks.
 
 And so.
 
-The following sections give you an in-the-weeds look of what I've done and the kind of fire that my experience lets me create.
+The following sections give you an in-the-weeds look of what I've done and the kind of fire I can create.
 
 ## Writing Roles
 
@@ -42,9 +42,9 @@ The following sections give you an in-the-weeds look of what I've done and the k
 
 ### Content Writing
 
-I know how to blend research, voice, and create posts that lead to results, but I bounced around a lot to gain this knowledge
+I can blend research and voice, and create posts that lead to results, but I bounced around a lot to gain this knowledge.
 
-When I was an undergrad, I was hired to ghostwrite for a CEO, and, I did this for about 6 months. I interviewed him on current stock market events and wrote daily articles on his website. The website was bought out in 2017, which was the CEO's main goal.
+When I was an undergrad, I was hired to ghostwrite for a CEO, and I did this for about 6 months. I interviewed him on current stock market events and wrote daily articles on his website. The website was bought out in 2017, which was the CEO's main goal.
 
 As an editor in 2019-2020 (see [editor](#editor)) for FAU's [literary journal's](https://www.instagram.com/swampapereview/), I got a step up in legitimacy and was a social media contributor. I mixed in a small amount of graphic design, but you can see that the IG has continued on well, long past my graduation.
 
@@ -78,6 +78,9 @@ Most grammar rules can be taught via Google or YouTube, so I don't make a huge d
 "I can explain the plu perfect tense," isn't something I say much at parties. Usually.
 
 ### Instructor
+
+I taught the following University courses: College Writing 1, College Writing 2, & Creative Writing.
+I also taught the following supplimental courses through FAU's community programs: Community Fiction Workshop, SciFi Collaboration lab.
 
 ### Fiction
 
